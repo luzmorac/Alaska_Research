@@ -9,7 +9,7 @@ Este proyecto de investigación se centra en [inserta el tema de la investigaci�
 ## Enlaces
 
 - [Paper Research](https://www.overleaf.com/project/6207d2ff5e052f271817cd97)
-- [State of the Art](https://sistemaupr-my.sharepoint.com/:x:/g/personal/luz_mora_upr_edu/Ec6-FG8icLFGlZO5PMVjXeEBNexjQ0-8M0X3wj0nkGU96Q)
+- [State of the Art](https://www.overleaf.com/read/tpktygdycrqs#d627ea)
 - [Presentación]()
 - [Conjunto de Datos]()
 - [Resultados y Conclusiones]()
