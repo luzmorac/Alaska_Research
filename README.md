@@ -4,7 +4,7 @@ Graph Based Deep Learning Architecture for Modeling Ecosystem Dynamics Integrati
 
 ## Descripción
 
-Este proyecto de investigación se centra en [inserta el tema de la investigación]. A lo largo del desarrollo, hemos utilizado diversas metodologías y herramientas para [menciona los principales enfoques o herramientas utilizadas]. El objetivo principal es [describe brevemente el objetivo final del proyecto].
+Este proyecto de investigación se centra en [NASA EPSCoR Rapid Response Research]. A lo largo del desarrollo, hemos utilizado diversas metodologías y herramientas para [Graph Based Deep Learning Architecture for Modeling Ecosystem Dynamics Integrating Hyperspectral]. El objetivo principal es [describe brevemente el objetivo final del proyecto].
 
 ## Enlaces
 
